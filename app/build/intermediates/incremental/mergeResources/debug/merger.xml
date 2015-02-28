@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res"><file name="btn_completed_bg" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_completed_bg.xml" qualifiers="" type="drawable"/><file name="btn_completed_normal" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_completed_normal.png" qualifiers="" type="drawable"/><file name="btn_completed_normal_disable" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_completed_normal_disable.png" qualifiers="" type="drawable"/><file name="btn_completed_normal_disable_focused" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_completed_normal_disable_focused.png" qualifiers="" type="drawable"/><file name="btn_default_bg" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_default_bg.xml" qualifiers="" type="drawable"/><file name="btn_default_normal" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_default_normal.9.png" qualifiers="" type="drawable"/><file name="btn_default_normal_disable" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_default_normal_disable.png" qualifiers="" type="drawable"/><file name="btn_default_normal_disable_focused" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_default_normal_disable_focused.9.png" qualifiers="" type="drawable"/><file name="btn_default_pressed" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_default_pressed.9.png" qualifiers="" type="drawable"/><file name="btn_default_selected" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_default_selected.png" qualifiers="" type="drawable"/><file name="btn_toggle" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_toggle.xml" qualifiers="" type="drawable"/><file name="btn_toggle_bg" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_toggle_bg.xml" qualifiers="" type="drawable"/><file name="btn_toggle_completed_bg" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_toggle_completed_bg.xml" qualifiers="" type="drawable"/><file name="btn_toggle_off" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_toggle_off.9.png" qualifiers="" type="drawable"/><file name="btn_toggle_on" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\btn_toggle_on.9.png" qualifiers="" type="drawable"/><file name="pencil" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\pencil.png" qualifiers="" type="drawable"/><file name="pencil_disabled" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\pencil_disabled.png" qualifiers="" type="drawable"/><file name="sudoku" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\drawable\sudoku.png" qualifiers="" type="drawable"/><file name="about" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\about.xml" qualifiers="" type="layout"/><file name="file_list" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\file_list.xml" qualifiers="" type="layout"/><file name="file_list_item" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\file_list_item.xml" qualifiers="" type="layout"/><file name="folder_list" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\folder_list.xml" qualifiers="" type="layout"/><file name="folder_list_item" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\folder_list_item.xml" qualifiers="" type="layout"/><file name="folder_name" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\folder_name.xml" qualifiers="" type="layout"/><file name="import_sudoku" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\import_sudoku.xml" qualifiers="" type="layout"/><file name="im_numpad" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\im_numpad.xml" qualifiers="" type="layout"/><file name="im_popup" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\im_popup.xml" qualifiers="" type="layout"/><file name="im_popup_edit_note" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\im_popup_edit_note.xml" qualifiers="" type="layout"/><file name="im_popup_edit_value" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\im_popup_edit_value.xml" qualifiers="" type="layout"/><file name="im_single_number" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\im_single_number.xml" qualifiers="" type="layout"/><file name="preference_dialog_seek_bar" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\preference_dialog_seek_bar.xml" qualifiers="" type="layout"/><file name="sudoku_edit" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\sudoku_edit.xml" qualifiers="" type="layout"/><file name="sudoku_export" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\sudoku_export.xml" qualifiers="" type="layout"/><file name="sudoku_list" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\sudoku_list.xml" qualifiers="" type="layout"/><file name="sudoku_list_item" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\sudoku_list_item.xml" qualifiers="" type="layout"/><file name="sudoku_list_item_note" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\sudoku_list_item_note.xml" qualifiers="" type="layout"/><file name="sudoku_play" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout\sudoku_play.xml" qualifiers="" type="layout"/><file name="im_numpad" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout-land\im_numpad.xml" qualifiers="land" type="layout"/><file name="im_popup" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout-land\im_popup.xml" qualifiers="land" type="layout"/><file name="im_popup_edit_note" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout-land\im_popup_edit_note.xml" qualifiers="land" type="layout"/><file name="im_popup_edit_value" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout-land\im_popup_edit_value.xml" qualifiers="land" type="layout"/><file name="im_single_number" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout-land\im_single_number.xml" qualifiers="land" type="layout"/><file name="sudoku_edit" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout-land\sudoku_edit.xml" qualifiers="land" type="layout"/><file name="sudoku_play" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\layout-land\sudoku_play.xml" qualifiers="land" type="layout"/><file name="changelog" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\raw\changelog" qualifiers="" type="raw"/><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="game_states">
+		<item>Not started</item>
+		<item>Playing</item>
+		<item>Solved</item>
+	</string-array><string-array name="theme_names">
+		<item>Default</item>
+		<item>Paper I</item>
+		<item>Paper II</item>
+	</string-array><string-array name="theme_codes">
+		<item>default</item>
+		<item>paperi</item>
+		<item>paperii</item>
+	</string-array><string-array name="game_levels">
+		<item>Easy</item>
+		<item>Medium</item>
+		<item>Hard</item>
+	</string-array></file><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="SudokuBoardView">
+		<attr format="color" name="lineColor"/>
+		<attr format="color" name="sectorLineColor"/>
+		<attr format="color" name="textColor"/>
+		<attr format="color" name="textColorReadOnly"/>
+		<attr format="color" name="textColorNote"/>
+		<attr format="color" name="backgroundColor"/>
+		<attr format="color" name="backgroundColorSecondary"/>
+		<attr format="color" name="backgroundColorReadOnly"/>
+		<attr format="color" name="backgroundColorTouched"/>
+		<attr format="color" name="backgroundColorSelected"/>
+	</declare-styleable><declare-styleable name="SeekBarPreference">
+		<attr format="integer" name="min"/>
+		<attr format="integer" name="max"/>
+		<attr format="integer" name="value"/>
+		<attr format="string" name="valueFormat"/>
+	</declare-styleable></file><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values\colors.xml" qualifiers=""><color name="im_number_button_selected_background">#7986CB</color><color name="im_number_button_completed_text">#000000</color></file><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values\ids.xml" qualifiers=""><item name="seek_bar" type="id"/></file><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values\strings.xml" qualifiers=""><string name="add_folder">Add folder</string><string name="hint">Hint</string><string name="invalid_format">Invalid format, import was canceled.</string><string name="edit_sudoku">Edit sudoku</string><string name="puzzle_updated">Puzzle has been updated.</string><string name="importing">Importing puzzles...</string><string name="im_numpad_hint">You\'re now in the
+		<i>Numpad</i>
+		input mode. Buttons act as a standard numeric keyboard.\n\nPress
+		<i>Pencil</i>
+		button to toggle cell\'s note editing.\n
+	</string><string name="single_number_abbr">SN</string><string name="theme">Theme</string><string name="highlight_completed_values_summary">Highlight buttons for numbers which has been entered 9 times.</string><string name="show_number_totals_summary">Displays count of each number placed.</string><string name="sdcard_not_found">SD card not found.</string><string name="export_all_folders">Export all folders</string><string name="folders">Folders</string><string name="not_started">Not started</string><string name="select_number">Select number</string><string name="work_in_progress">Please note that this is still work in progress.</string><string name="name">Name:</string><string name="more_settings">More settings</string><string name="unknown_export_error">Unknown error occurred while exporting puzzles.</string><string name="clear_all_notes">Clear all notes</string><string name="delete_puzzle_confirm">Are you sure you want to delete selected puzzle?</string><string name="send_by_mail">Send by mail</string><string name="reset_puzzle_confirm">Are you sure you want to reset selected puzzle?</string><string name="well_done">Well Done!</string><string name="numpad_abbr">Num\nPad</string><string name="highlight_completed_values">Highlight completed numbers</string><string name="version">Version: %s</string><string name="on_date">on %s</string><string name="settings">Settings</string><string name="save">Save</string><string name="filter_active">Filtered: %s</string><string name="at_time">at %s</string><string name="show_time">Show time</string><string name="what_is_new">What\'s new</string><string name="filter">Filter</string><string name="rename_folder">Rename folder</string><string name="edit_puzzle">Edit puzzle</string><string name="select_theme">Select theme</string><string name="yesterday_at_time">yesterday at %s</string><string name="unknown_import_error">Unknown error occurred while importing puzzles, import was canceled.</string><string name="undo_to_checkpoint">Undo to checkpoint</string><string name="send_me_bugs">If you run into bug which you want to get fixed, don\'t hesitate to contact me by e-mail.
+	</string><string name="help_text"><b>Keyboard controls</b>\n\nUse trackball to navigate to the desired cell and then press
+		number on keyboard to fill in value. If you want to edit cell\'s note, press number with shift or alt.\n\n<b>
+			Input modes</b>\n\nYou can switch between several input modes using button in the lower right corner of the
+		screen. You can also disable any input mode in game settings - it will be completely hidden then.\n\n<b>Popup
+			input mode</b>\n\nPopup dialog is shown when you tap the cell. You can edit cell\'s content using this
+		dialog.\n\n<b>Single Number input mode</b>\n\nFirst select any number button by pressing it. Then just tap on
+		cells in which you want to have selected number filled.\n\nUse
+		<i>Pencil</i>
+		button to toggle between cell\'s value and note editing.\n\n<b>Numpad input mode</b>\n\nButtons act as a
+		standard numeric keyboard.\n\nUse
+		<i>Pencil</i>
+		button to toggle between cell\'s value and note editing.\n
+	</string><string name="play_puzzle">Play this puzzle</string><string name="n_puzzles">%s puzzles</string><string name="numpad_summary">Show numpad which acts as standard numeric keyobard.</string><string name="fill_in_notes">Fill in notes</string><string name="loading">Loading...</string><string name="no_puzzles_found">No puzzles found.</string><string name="credits">:)</string><string name="restart">Restart</string><string name="input_methods">Input Modes</string><string name="export_folder">Export folder</string><string name="get_more_puzzles_online">Get more puzzles online</string><string name="im_popup_hint">You\'re now in the
+		<i>Popup</i>
+		input mode. Tap any cell with finger to edit its content.\n\nNotice the button in the lower right corner. You
+		can use this button to switch to another input mode.\n
+	</string><string name="n_solved">%s solved</string><string name="filename">Filename</string><string name="numpad_move_right">Move right on press</string><string name="generating">Generating puzzle...</string><string name="no_puzzles">No puzzles</string><string name="difficulty_medium">Medium</string><string name="delete_folder_confirm">Are you sure you want to delete this folder?</string><string name="that_is_all">That\'s all</string><string name="undo">Undo</string><string name="delete_folder">Delete folder</string><string name="show_number_totals">Show Number Totals</string><string name="undo_to_checkpoint_confirm">Are you sure you want to undo all actions since last checkpoint?</string><string name="import_file_title">Import file %s</string><string name="congrats">Congratulations, you have solved the puzzle in %s.</string><string name="numpad_move_right_summary">Moves cell selection by one cell right when number button is pressed.
+	</string><string name="app_name">Sudoku</string><string name="directory">Directory</string><string name="popup_summary">Edit cell value and note in popup.</string><string name="restart_confirm">Are you sure you want to restart this game?</string><string name="puzzles_saved">Puzzles have been saved into \'%s\' folder.</string><string name="highlight_touched_cell_summary">Highlights row and column of touched cell.</string><string name="theme_summary">Select color theme for puzzle board.</string><string name="n_unsolved">%s unsolved</string><string name="folders_created">%s folders have been imported.</string><string name="puzzles_have_been_exported">Puzzles have been exported to %s.</string><string name="puzzle_inserted">New puzzle has been saved.</string><string name="puzzle_folders">Sudoku puzzle folders</string><string name="note">Note:</string><string name="im_single_number_hint">You\'re now in the
+		<i>Single number</i>
+		input mode. First select any number button by pressing it. Then just tap on cells in which you want to have
+		selected number filled.\n\nPress
+		<i>Pencil</i>
+		button to toggle cell\'s note editing.\n
+	</string><string name="highlight_wrong_values_summary">Highlight values which break rules of sudoku.</string><string name="popup">Popup</string><string name="edit_note">Edit note</string><string name="one_puzzle">1 puzzle</string><string name="delete_folder_title">Delete %s</string><string name="exporting">Exporting puzzles...</string><string name="difficulty_easy">Easy</string><string name="playing">Playing</string><string name="show_hints_summary">Show hints which will guide you through application controls.</string><string name="select_difficulty">Select difficulty</string><string name="export">Export</string><string name="delete_puzzle">Delete puzzle</string><string name="game">Game</string><string name="help">Help</string><string name="solved">Solved</string><string name="single_number">Single number</string><string name="filter_by_gamestate">Filter by game state</string><string name="close">Close</string><string name="fill_in_notes_summary">Enable "Fill in notes" menu item.</string><string name="import_file">Import</string><string name="show_hints">First launch hints</string><string name="numpad">Numpad</string><string name="first_run_hint">There are several input modes which you can use to fill in the puzzle. In order to
+		help you get familiar with these modes there will be several hints displayed as you go through them.\n\nYou can
+		disable these hints in game settings.\n
+	</string><string name="screen_border_size_summary">Some displays do not react to touches on screen edges. This could help in</string><string name="reset_puzzle">Reset puzzle</string><string name="all_solved">all solved</string><string name="rename_folder_title">Rename %s</string><string name="show_time_summary">Show time during gameplay.</string><string name="single_number_summary">Select number, then just tap on cell to set its value or note.</string><string name="save_to_sdcard">Save to sdcard</string><string name="welcome">Welcome</string><string name="popup_abbr">Pop</string><string name="generate_sudoku">Generate new game</string><string name="homepage">Homepage: </string><string name="set_checkpoint">Set checkpoint</string><string name="im_disable_modes_hint">Please remember that you don\'t have to use all input modes. You can disable
+		any of them in the game settings.\n\nYou can also use the keyboard and trackball to control the game. If you
+		want to enter notes using keyboard, press number with alt or shift.\n
+	</string><string name="about">About</string><string name="highlight_touched_cell">Highlight cell on touch</string><string name="file_exists">File already exists, do you want to overwrite it?</string><string name="email">Email: svenkraetzer31@gmail.com</string><string name="n_playing">%s playing</string><string name="game_helpers">Game Helpers</string><string name="created_at">Created %s</string><string name="clear_all_notes_confirm">Are you sure you want to clear all notes?</string><string name="screen_border_size">Screen border size</string><string name="add_sudoku">Add sudoku</string><string name="difficulty_hard">Hard</string><string name="game_settings">Game settings</string><string name="last_played_at">Last played %s</string><string name="highlight_wrong_values">Highlight wrong values</string><string name="clear">Clear</string></file><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values\styles.xml" qualifiers=""><style name="Theme.PaperII">
+		<item name="lineColor">#666666</item>
+		<item name="sectorLineColor">@android:color/black</item>
+		<item name="textColor">#555555</item>
+		<item name="textColorReadOnly">@android:color/black</item>
+		<item name="textColorNote">#555555</item>
+		<item name="backgroundColor">#dddddd</item>
+		<item name="backgroundColorSecondary">@android:color/white</item>
+		<item name="backgroundColorTouched">#3232ff</item>
+		<item name="backgroundColorSelected">#ffff00</item>
+	</style><style name="Theme.Default">
+		<item name="lineColor">#666666</item>
+		<item name="sectorLineColor">@android:color/black</item>
+		<item name="textColor">@android:color/black</item>
+		<item name="textColorReadOnly">@android:color/black</item>
+		<item name="textColorNote">@android:color/black</item>
+		<item name="backgroundColor">@android:color/white</item>
+		<item name="backgroundColorReadOnly">#cccccc</item>
+		<item name="backgroundColorTouched">#3232ff</item>
+		<item name="backgroundColorSelected">#ffff00</item>
+	</style><style name="im_popup_number_button" parent="@android:style/Widget.Button">
+		<item name="android:layout_width">95sp</item>
+		<item name="android:layout_height">70sp</item>
+		<item name="android:background">@drawable/btn_completed_normal</item>
+	</style><style name="Theme" parent="android:Theme.Material.Light">
+	</style><style name="im_popup_note_number_button" parent="@android:style/Widget.Button.Toggle">
+		<item name="android:layout_width">95sp</item>
+		<item name="android:layout_height">70sp</item>
+		<item name="android:background">@drawable/btn_toggle_bg</item>
+	</style><style name="im_popup_close_button" parent="@android:style/Widget.Button">
+		<item name="android:layout_width">140sp</item>
+		<item name="android:layout_height">60sp</item>
+		<item name="android:layout_marginTop">10sp</item>
+		<item name="android:background">@drawable/btn_completed_normal</item>
+	</style><style name="Theme.PaperI">
+		<item name="lineColor">#666666</item>
+		<item name="sectorLineColor">@android:color/black</item>
+		<item name="textColor">#555555</item>
+		<item name="textColorReadOnly">@android:color/black</item>
+		<item name="textColorNote">#555555</item>
+		<item name="backgroundColor">@android:color/white</item>
+		<item name="backgroundColorTouched">#3232ff</item>
+		<item name="backgroundColorSelected">#ffff00</item>
+	</style><style name="im_popup_clear_button" parent="@android:style/Widget.Button">
+		<item name="android:layout_width">95sp</item>
+		<item name="android:layout_height">60sp</item>
+		<item name="android:layout_marginTop">10sp</item>
+		<item name="android:layout_marginLeft">45sp</item>
+		<item name="android:background">@drawable/btn_completed_normal</item>
+	</style><style name="im_button">
+		<item name="android:background">@drawable/btn_completed_normal</item>
+	</style></file><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values-de\arrays.xml" qualifiers="de"><string-array name="game_states">
+		<item>neu</item>
+		<item>am spielen</item>
+		<item>gelöst</item>
+	</string-array><string-array name="game_levels">
+		<item>Einfach</item>
+		<item>Medium</item>
+		<item>Schwer</item>
+	</string-array></file><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values-de\strings.xml" qualifiers="de"><string name="puzzle_inserted">Das neue Sudoku-Rätsel wurde gespeichert.</string><string name="input_methods">Eingabe-Methoden</string><string name="add_sudoku">Sudoku-Rätsel hinzufügen</string><string name="one_puzzle">1 Sudoku-Rätsel</string><string name="clear_all_notes_confirm">Möchten Sie wirklich alle Notizen löschen?</string><string name="numpad">Zahlenblock</string><string name="im_popup_hint">Sie befinden sich nun im<i>Popup</i>-Modus. Tippen Sie mit dem Finger auf eine Zelle um
+		diese zu bearbeiten\n\nBeachten Sie den Schalter in der unteren rechten Ecke. Über diese können Sie jederzeit
+		den Eingabe-Modus wechseln.\n
+	</string><string name="help_text"><b>Tastatur-Steuerung</b>\n\nVerwenden Sie den Trackball um zur gewünschten Zelle zu
+		navigieren und drücken Sie dann eine Zahl auf der Tastatur. Um eine Zellen-Notiz zu bearbeiten, drücken Sie
+		Shift- oder Alt und die entsprechende Zahl.\n\n<b>Eingabe-Modi</b>\n\nÜber die Schaltfläche in der rechten
+		unteren Ecke können Sie zwischen verschiedenen Eingabe-Modi wechseln. Sie können jeden der Eingabe-Modi in den
+		Einstellungen deaktivieren.\n\n<b>Popup-Modus</b>\n\nTippen Sie mit dem Finger auf eine Zelle um diese in einem
+		Dialogfeld zu bearbeiten.\n\n<b>Einzelne Zahl</b>\n\nWählen Sie zunächst eine Zahl aus. Dann tippen Sie die
+		Zelle an, in die Sie die Zahl eintragen möchten.\n\nDrücken Sie die<i>Stift</i>-Schaltfläche um Zellen-Notizen
+		zu bearbeiten.\n
+	</string><string name="generating">Generiere Sudoku-Rätsel...</string><string name="popup_summary">Zahlen in einem Popup-Dialog bearbeiten.</string><string name="puzzle_folders">Sudoku Rätsel-Ordner</string><string name="email">Email: svenkraetzer31@gmail.com</string><string name="im_single_number_hint">Sie befinden sich nun im<i>Einzelne Zahl</i>-Modus. Wählen Sie zunächst eine
+		Zahl aus. Dann tippen Sie die Zelle an, in die Sie die Zahl eintragen möchten.\n\nDrücken Sie die<i>Stift</i>
+		-Schaltfläche um Zellen-Notizen zu bearbeiten.\n
+	</string><string name="sdcard_not_found">SD-Karte nicht eingelegt.</string><string name="screen_border_size">Breite des Bildschirmrand</string><string name="single_number_abbr">EZ</string><string name="highlight_touched_cell">Berührte Zelle hervorheben</string><string name="screen_border_size_summary">Spielfeld verkleinern, falls Ihr Bildschirm nicht auf Berührungen am
+		Bildschirmrand reagiert.
+	</string><string name="single_number">Einzelne Zahl</string><string name="save">Speichern</string><string name="play_puzzle">Dieses Sudoku-Rätsel spielen</string><string name="exporting">Exportiere Sudoku-Rätsel...</string><string name="clear">Löschen</string><string name="settings">Einstellungen</string><string name="show_hints">Zeige Bedienungsanleitung beim ersten Start</string><string name="filter">Filtern</string><string name="on_date">am %s</string><string name="more_settings">Mehr Einstellungen</string><string name="name">Name:</string><string name="save_to_sdcard">Speichern auf SD-Karte</string><string name="n_puzzles">%s Sudoku-Rätsel</string><string name="filename">Dateiname</string><string name="unknown_export_error">Ein unbekannter Fehler ist während des Exports aufgetreten.</string><string name="edit_note">Notiz bearbeiten</string><string name="restart_confirm">Möchten Sie dieses Spiel wirklich neu starten?</string><string name="popup_abbr">Pop</string><string name="folders">Ordner</string><string name="theme">Farbschema</string><string name="highlight_completed_values_summary">Markiere Zahlen die bereits vollständig eingegeben wurden.
+	</string><string name="playing">In Bearbeitung</string><string name="select_difficulty">Schwierigkeit auswählen</string><string name="numpad_abbr">ZB</string><string name="congrats">Herzlichen Glückwunsch, Du hast das Sudoku-Rätsel in %s gelöst.</string><string name="show_time">Zeige Spiel-Zeit</string><string name="game_helpers">Spiel-Hilfen</string><string name="yesterday_at_time">gestern um %s</string><string name="undo">Undo</string><string name="im_disable_modes_hint">Bitte beachten Sie, das Sie nicht alle Eingabe-Modi verwenden müssen. Sie
+		können einzelnen Eingabe-Modi in den Einstellungen deaktivieren.\n\nSie können auch den Trackball oder die
+		Tastatur zur Steuerung des Spiels verwenden. Wenn Sie Notizen über die Tastatur eingeben möchten, drücken "Alt"
+		oder "Umschalt" + Zahl.\n
+	</string><string name="invalid_format">Unbekanntes Format, importieren wurde abgebrochen.</string><string name="show_hints_summary">Zeige Bedienungsanleitung</string><string name="loading">Lade...</string><string name="app_name">Sudoku</string><string name="hint">Hinweis</string><string name="importing">Importiere Sudoku-Rätsel...</string><string name="add_folder">Ordner hinzufügen</string><string name="credits">:)</string><string name="numpad_move_right">Fokus nach rechts verschieben</string><string name="delete_puzzle">Sudoku-Rätsel löschen</string><string name="reset_puzzle">Sudoku-Rätsel zurücksetzen</string><string name="rename_folder_title">%s umbenennen</string><string name="highlight_touched_cell_summary">Spalte und Zeile einer berührten Zelle hervorheben.</string><string name="edit_sudoku">Sudoku-Rätsel bearbeiten</string><string name="not_started">Neu</string><string name="show_time_summary">Zeige Zeit während das Spiel läuft.</string><string name="export_folder">Export folder</string><string name="delete_folder_confirm">Möchten Sie diesen Ordner wirklich löschen?</string><string name="export">Export</string><string name="unknown_import_error">Unbekanntes Format, importieren wurde abgebrochen.</string><string name="highlight_wrong_values">Falsche Zahlen hervorheben</string><string name="solved">Gelöst</string><string name="close">Schließen</string><string name="n_solved">%s gelöst</string><string name="puzzle_updated">Das Sudoku-Rätsel wurde aktualisiert.</string><string name="version">Version: %s</string><string name="generate_sudoku">Generiere neues Sudoku</string><string name="difficulty_hard">Schwer</string><string name="about">Info</string><string name="welcome">Willkommen</string><string name="highlight_completed_values">Markiere vollständige Zahlen</string><string name="delete_puzzle_confirm">Möchten Sie dieses Sudoku-Rätsel wirklich löschen?</string><string name="no_puzzles_found">Keine Sudoku-Rätsel gefunden.</string><string name="n_playing">%s in Bearbeitung</string><string name="numpad_move_right_summary">Nach Eingabe einer Zahl den Fokus nach rechts verschieben.</string><string name="puzzles_saved">Die Sudoku-Rätsel wurden im Ordner \'%s\' gespeichert.</string><string name="highlight_wrong_values_summary">Zahlen die gegen die Sudoku-Regeln verstoßen hervorheben.</string><string name="file_exists">Die Datei existiert bereits, möchten Sie diese überschreiben?</string><string name="fill_in_notes">Notizen eintragen</string><string name="rename_folder">Ordner umbenennen</string><string name="filter_by_gamestate">Filtern nach Spiel-Status</string><string name="note">Notiz:</string><string name="that_is_all">Das ist alles!</string><string name="select_number">Zahl auswählen</string><string name="popup">Popup</string><string name="well_done">Gut gemacht!</string><string name="work_in_progress">Bitte beachten Sie das diese Software ständig weiterentwickelt wird.</string><string name="restart">Spiel neu starten</string><string name="numpad_summary">Zahlenblock anzeigen, der wie eine Tastatur funktioniert.</string><string name="difficulty_medium">Mittel</string><string name="export_all_folders">Export all folders</string><string name="send_me_bugs">Falls Sie einen Fehler finden, den Sie gerne behoben haben möchten oder falls Sie
+		Verbesserungsvorschläge haben, zögern Sie nicht mich per E-Mail zu kontaktieren. Alle Anfragen bitte nur in englischer Sprache, vielen Dank!
+	</string><string name="delete_folder">Ordner löschen</string><string name="get_more_puzzles_online">Mehr Sudoku-Rätsel herunterladen</string><string name="no_puzzles">Keine Sudoku-Rätsel</string><string name="reset_puzzle_confirm">Möchten Sie die ausgewählten Sudoku-Rätsel wirklich zurücksetzen?</string><string name="created_at">Erstellt %s</string><string name="difficulty_easy">Leicht</string><string name="select_theme">Farbschema auswählen</string><string name="n_unsolved">%s neu</string><string name="folders_created">%s Ordner wurden importiert</string><string name="last_played_at">Zuletzt gespielt %s</string><string name="filter_active">Gefiltert: %s</string><string name="im_numpad_hint">Sie befinden sich nun im<i>Zahlenblock</i>-Modus. Die Zahlen von 1 bis 9 werden als
+		Bildschirm-Tastatur angezeigt.\n\nDrücken Sie die<i>Stift</i>-Schaltfläche um Zellen-Notizen zu bearbeiten.\n
+	</string><string name="delete_folder_title">%s löschen</string><string name="all_solved">Alle gelöst</string><string name="edit_puzzle">Sudoku-Rätsel bearbeiten</string><string name="directory">Verzeichnis</string><string name="first_run_hint">Es stehen verschiedene Eingabe-Modi zum lösen der Sudoku-Rätsel zur Verfügung. Um Sie
+		mit diesen Modi vertraut zu machen, sehen Sie nun eine kurze Einführung.\n\nSie können diesen Hilfe-Text in den
+		Spiel-Einstellungen deaktivieren.\n
+	</string><string name="puzzles_have_been_exported">Sudoku-Rätsel wurden nach %s exportiert.</string><string name="send_by_mail">Senden per E-Mail</string><string name="game">Spiel</string><string name="theme_summary">Farbschema für das Spielfeld auswählen.</string><string name="at_time">um %s</string><string name="homepage">Homepage:</string><string name="game_settings">Spiel-Einstellungen</string><string name="single_number_summary">Eine Zahl auswählen, danach auf eine Zelle tippen um den Wert oder die Notiz zu
+		setzen.
+	</string><string name="clear_all_notes">Alle Notizen löschen</string><string name="help">Hilfe</string></file><file path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\values-land\styles.xml" qualifiers="land"><style name="im_popup_clear_button" parent="@android:style/Widget.Button">
+		<item name="android:layout_width">95sp</item>
+		<item name="android:layout_height">60sp</item>
+		<item name="android:layout_marginLeft">50sp</item>
+	</style><style name="im_popup_note_number_button" parent="@android:style/Widget.Button.Toggle">
+		<item name="android:layout_width">95sp</item>
+		<item name="android:layout_height">70sp</item>
+	</style><style name="im_popup_number_button" parent="@android:style/Widget.Button">
+		<item name="android:layout_width">95sp</item>
+		<item name="android:layout_height">70sp</item>
+	</style><style name="im_popup_close_button" parent="@android:style/Widget.Button">
+		<item name="android:layout_width">140sp</item>
+		<item name="android:layout_height">60sp</item>
+		<item name="android:layout_marginLeft">10sp</item>
+	</style></file><file name="game_settings" path="C:\Users\Dude\Documents\OpenSudoku\app\src\main\res\xml\game_settings.xml" qualifiers="" type="xml"/></source><source path="C:\Users\Dude\Documents\OpenSudoku\app\build\generated\res\rs\debug"/><source path="C:\Users\Dude\Documents\OpenSudoku\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Dude\Documents\OpenSudoku\app\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="SeekBarPreference"><attr format="integer" name="min"/><attr format="integer" name="max"/><attr format="integer" name="value"/><attr format="string" name="valueFormat"/></declare-styleable><declare-styleable name="SudokuBoardView"><attr format="color" name="lineColor"/><attr format="color" name="sectorLineColor"/><attr format="color" name="textColor"/><attr format="color" name="textColorReadOnly"/><attr format="color" name="textColorNote"/><attr format="color" name="backgroundColor"/><attr format="color" name="backgroundColorSecondary"/><attr format="color" name="backgroundColorReadOnly"/><attr format="color" name="backgroundColorTouched"/><attr format="color" name="backgroundColorSelected"/></declare-styleable></configuration></mergedItems></merger>
